@@ -1,0 +1,21 @@
+body{
+    background-color: coral;
+}
+.heading{
+    font-size: 25px;
+    width:95%;
+    margin:0px;
+    box-shadow: 5px 5px 5px skyblue;
+    margin-top: 10px;
+}
+.note{
+    font-size: 15px;
+    color:black;
+    margin-top: 10px;
+
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px yellow;
+    border:5px solid turquoise;
+}
